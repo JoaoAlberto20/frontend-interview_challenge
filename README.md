@@ -46,10 +46,11 @@ Your first objective as a frontend developer is to help us grow our socialmedia 
 
 ### Which technologies/libs can I use?
 
-- React + Redux
+- React
+- Typescript
 - ES6+
 - React Hooks
-- styled components, postCSS, TailwindCSS, or any other css library.
+- styled components
 - You can also use <a href="https://create-react-app.dev/docs/getting-started/" target='_blank'>create-react-app</a> if you want to.
 
 ### What libs/tech should I avoid?
@@ -94,7 +95,6 @@ The application should have two routes:
 
 It would be great to see these libraries being used in your code, but we would love to know what you can suggest for us:
 
-> - Use of styled-componets (https://styled-components.com/)
 > - DOM testing (https://github.com/testing-library/react-testing-library)
 > - Code patterns (https://eslint.org/ and https://prettier.io)
 > - Vector Icon Set (https://fontawesome.com/)
